@@ -18,11 +18,7 @@ Welcome to the Currency Converter project! This web application allows users to 
 
 ## How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone [[https://github.com/your-username/currency-converter.git](https://lnkd.in/dQjXvfyE)](https://lnkd.in/dQjXvfyE)
-   ```
+1. Clone the repository
 
 2. Open the `index.html` file in your web browser.
 
@@ -32,20 +28,12 @@ Welcome to the Currency Converter project! This web application allows users to 
 
 ## Demo
 
-For a live demo, visit [Currency Converter Demo]([insert-demo-link-here](https://www.linkedin.com/posts/jatinmittal08_linkedin-task2-webdevelopment-activity-7132982246742908928-PNMU?utm_source=share&utm_medium=member_desktop))
-
-## Screenshots
-
-![Currency Converter Screenshot](https://github.com/Jat21in/CurrencyConverter./assets/112621022/e6b75ec8-8f34-49a7-bc14-5364df4c78d8)
-
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 
-## Contact
 
-For any questions or feedback, please contact [Jatin Mittal] at [mittaljatin2004@gmail.com].
 
 ---
